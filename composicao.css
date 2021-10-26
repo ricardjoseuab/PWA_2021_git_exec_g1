@@ -12,7 +12,7 @@ img {
     float: left;
 }
 
-div.base {
+.base {
     width: 960px;
     margin: auto;
 }
